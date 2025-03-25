@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-TOUR/static/css/main.72b30d86.css",
+    "main.js": "/E-TOUR/static/js/main.314351f7.js",
+    "static/js/488.9c92ff38.chunk.js": "/E-TOUR/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/E-TOUR/index.html",
+    "main.72b30d86.css.map": "/E-TOUR/static/css/main.72b30d86.css.map",
+    "main.314351f7.js.map": "/E-TOUR/static/js/main.314351f7.js.map",
+    "488.9c92ff38.chunk.js.map": "/E-TOUR/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b30d86.css",
+    "static/js/main.314351f7.js"
+  ]
+}
